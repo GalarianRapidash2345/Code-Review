@@ -34,6 +34,10 @@ This code review analyzes and proposes the enhancements of three original artifa
  ![Image](src)
 ```
 
+### Code Review Video
 
+You can find a full-screen version of the code review here on Youtube
+
+![Image](https://photos.google.com/search/_tra_/photo/AF1QipNINmZXLUaXKLar5HKWQjoDFT42YcMHaY4l2mwN)
 
 
