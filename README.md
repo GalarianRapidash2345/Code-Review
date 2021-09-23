@@ -39,5 +39,6 @@ This code review analyzes and proposes the enhancements of three original artifa
 You can find a full-screen version of the code review here on Youtube
 
 ![Image](https://www.kindpng.com/picc/m/47-470845_non-copyright-youtube-logo-copyright-free-youtube-logo.png)
+@KindPNG, no copyright infringement is intended. 
 
 
