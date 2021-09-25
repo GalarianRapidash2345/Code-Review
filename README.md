@@ -284,6 +284,9 @@ INITIALIZE FROM arkham_investigators;
 
 You can find a full-screen version of the code review here on [Youtube](https://www.youtube.com/watch?v=IWou8g_Eeg4)
 
+![Image](https://www.youtube.com/watch?v=IWou8g_Eeg4)
+
+
 ![Image](https://www.kindpng.com/picc/m/47-470845_non-copyright-youtube-logo-copyright-free-youtube-logo.png)
 
 
