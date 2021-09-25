@@ -192,19 +192,92 @@ FAIL() << Unique Collection Size Out Of Bounds Symbolic;
 
 
 ## Databases Category
-
+The Databases category originates from the artifacts within the course DAD 220: Introduction to SQL. The psuedocode presented will improve the artifact, and will be altered in the final enhancement three code.
 ### Psuedocode
 
 ```
-- Bulleted
-- List
+START mysql;
 
-1. Numbered
-2. List
+CREATE DATABASE arkhamboardgameDB
 
-**Bold** and _Italic_ and `Code` text
+CREATE TABLE arkham_enemies (
 
- ![Image](src)
+INITIALIZE EnemyID int, 
+
+INITIALIZE EnemyName varchar(255),
+
+INITIALIZE EnemyExpansion varchar(255),
+
+INITIALIZE EnemyAttributes varchar(255)
+
+);
+
+
+CREATE TABLE arkham_consumables (
+
+INITIALIZE ConsumableID int NOT NULL UNIQUE,
+
+INITIALIZE CardType varchar(255) NOT NULL,
+
+INITIALIZE CardName varchar(255),
+
+
+
+);
+
+
+
+CREATE TABLE arkham_investigators (
+
+INITIALIZE InvestigatorID int NOT NULL UNIQUE,
+
+INITIALIZE InvestigatorType varchar(255) NOT NULL,
+
+INITIALIZE InvestigatorName varchar(255),
+
+INITIALIZE InvestigatorItems varchar(255) NOT NULL,
+
+INITIALIZE InvestigatorHealth varchar(255),
+
+INITIALIZE InvestigatorSanity varchar(255),
+
+INITIALIZE InvestigatorAge int, 
+
+INITIALIZE CHECK (InvestigatorAge<= 100)
+
+);
+
+Join tables
+
+SELECT arkham_investigators.InvestigatorItems, arkham_consumables.CardType
+
+DECLARE FROM arkham_investigators
+INITIALIZE INNER JOIN arkham_consumables ON arkham_investigators.InvestigatorType=arkham_consumables.InvestigatorType
+
+
+
+
+
+SQL Injection Prevention:
+
+
+INITIALIZE SELECT * FROM Users WHERE Name=” “ or “value” = “value” AND Password=” “ or “value” = “value”;
+
+
+
+
+check low on health and sanity
+
+INITIALIZE SELECT InvestigatorID, InvestigatorHealth, IF(InvestigatorHealth>9, “Healthy”, “Injured”)
+
+INITIALIZE FROM arkham_investigators;
+
+
+INITIALIZE SELECT InvestigatorID, InvestigatorSanity, IF(InvestigatorSanity>7, “Sane”, “Insane”)
+
+INITIALIZE FROM arkham_investigators;
+
+
 ```
 
 # Code Review Video
