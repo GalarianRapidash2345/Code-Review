@@ -1,6 +1,6 @@
 # Code Review Analysis
 
-This code review analyzes and proposes the enhancements of three original artifacts for the Software Design/Engineering, Algorithms and Data Structures, as well as Databases categories.
+This code review analyzes and proposes the enhancements of three original artifacts for the Software Design/Engineering, Algorithms and Data Structures, and Databases categories. The code review presented is an individual code review, where I am the sole reviewer of the artifact files. Being the sole reviewer, I am able to analyze my own faults and create plans for the issues in the artifacts. I can use this code review to accept my mistakes and fail fast, which enables me to adapt within the industry.
 
 ## Software Design/Engineering Category 
 
