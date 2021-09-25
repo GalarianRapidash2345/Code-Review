@@ -3,7 +3,7 @@
 This [code review](https://www.youtube.com/watch?v=IWou8g_Eeg4) analyzes and proposes the enhancements of three original artifacts for the Software Design/Engineering, Algorithms and Data Structures, and Databases categories. The code review presented is an individual code review, where I am the sole reviewer of the artifact files. Being the sole reviewer, I can analyze my faults and create plans for the issues in the artifacts. I can use this code review to accept my mistakes and fail fast, which allows me to adapt to the industry. I intend to collaborate with team members on code reviews and incorporate their suggestions in the future. 
 
 ## Software Design/Engineering Category 
-The Software Design/Engineering category originates from the artifacts within the course CS 410: Software Reverse Engineering. The psuedocode presented will improve the artifact, and will be altered in the final enhancement code. 
+The Software Design/Engineering category originates from the artifacts within the course CS 410: Software Reverse Engineering. The psuedocode presented will improve the artifact, and will be altered in the final enhancement one code. 
 ### Psuedocode
 ```
 START <stdio.h>
@@ -93,9 +93,100 @@ PRINT printf(customerchoice2 “+” permissions2 “=” information);
 
 
 ## Algorithms and Data Structures Category
-
+The Algorithms and Data Structures category originates from the artifacts within the course CS 405: Secure Coding. The psuedocode presented will improve the artifact, and will be altered in the final enhancement two code. 
 ### Psuedocode
 ```
+Data structure 
+INITIALIZE std:: unique_ptr2<std::vector<int>> unique_collection;
+
+START TEST_F (CanAddToEmptyStructureUniqueCollection) {
+
+ASSERT_EQ (unique_collection->size(), 20);
+
+
+}
+
+
+Algorithm
+
+
+START TEST_F (CapacityGreaterThanOrEqualToUniqueCollectionEntries) {
+
+DEFINE add_uentries(0);
+
+DEFINE add_uentries(2);
+
+DEFINE add_uentries(100);
+
+DEFINE add_uentries(1000);
+
+ASSERT_GE (unique_collection.get(), 0);
+
+ASSERT_GE (unique_collection.get(), 2);
+
+ASSERT_GE (unique_collection.get(), 100);
+
+ASSERT_GE (unique_collection.get(), 1000); 
+
+}
+
+
+
+Refine CanAddToEmptyVector
+
+
+START TEST_F (CollectionTest, CanAddToEmptyVector) {
+
+
+DEFINE add_entries(1);
+
+EXPECT_EQ (collection -> empty, 0);
+
+ASSERT_EQ (collection-> size, 1);
+
+}
+
+
+
+
+Negative Test
+
+
+
+START TEST_F (UniqueCollectionTest, ExceptionUniqueCollSizeOutOfBounds) {
+
+INITIALIZE int unique_collect = 1250;
+
+
+DEFINE unique_collect;
+
+
+TRY {
+
+FAIL() << Unique Collection Size Out Of Bound Symbolic;
+
+}
+
+CATCH (const std::exception& e)
+
+{
+EXPECT_EQ (unique_collection->size, 250);
+
+THROW;
+
+}
+
+CATCH (const std::exception& get())
+
+{
+
+EXPECT_EQ (unique_collection->size, 1000);
+
+
+FAIL() << Unique Collection Size Out Of Bounds Symbolic;
+
+}
+
 
 ```
 
