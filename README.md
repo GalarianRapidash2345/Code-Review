@@ -29,7 +29,7 @@ You can find the enhanced databases design plans here
 
 # Code Review Video
 
-You can find a full-screen version of the code review here on [Youtube](https://www.youtube.com/watch?v=IWou8g_Eeg4)
+You can find a full-screen version of the code review here on [YouTube](https://www.youtube.com/watch?v=IWou8g_Eeg4)
 
 
 
