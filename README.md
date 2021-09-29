@@ -33,7 +33,7 @@ You can find a full-screen version of the code review here on [YouTube](https://
 
 
 
-
+Use CRTL-right click to open in a new tab.
 
 <a href="https://www.youtube.com/watch?v=IWou8g_Eeg4" target="_blank">YOUTUBE</a>
 
