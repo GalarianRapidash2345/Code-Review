@@ -34,7 +34,7 @@ Use CRTL-right click to open in a new tab.
 <a href="https://www.youtube.com/watch?v=IWou8g_Eeg4" target="_blank">YOUTUBE</a>
 
 
-
+[Youtube](https://www.youtube.com/watch?v=IWou8g_Eeg4){:target="\_blank"}
  
 
 
