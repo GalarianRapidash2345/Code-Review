@@ -4,21 +4,15 @@ This [code review](https://www.youtube.com/watch?v=IWou8g_Eeg4) analyzes and pro
 
 
 ### Pseudocode
-You can find the original design plans [here](https://github.com/GalarianRapidash2345/Code-Review/blob/main/OldPseudocode.md)
+Find the original design plans [here](https://github.com/GalarianRapidash2345/Code-Review/blob/main/OldPseudocode.md)
 
-You can find the enhanced design plans [here](https://github.com/GalarianRapidash2345/Code-Review/blob/main/NewPseudocode.md)
-
-
+Find the enhanced design plans [here](https://github.com/GalarianRapidash2345/Code-Review/blob/main/NewPseudocode.md)
 
 
 
 
-Use CRTL-right click to open in a new tab.
-
-<a href="https://www.youtube.com/watch?v=IWou8g_Eeg4" target="_blank">YOUTUBE</a>
 
 
 
-  [Youtube](https://www.youtube.com/watch?v=IWou8g_Eeg4)
 
 
