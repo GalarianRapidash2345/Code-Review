@@ -1,7 +1,7 @@
 ---
 layout: page
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-slate
 ---
 
 <!DOCTYPE html>
