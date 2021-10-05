@@ -4,9 +4,9 @@ This [code review](https://www.youtube.com/watch?v=IWou8g_Eeg4)  analyzes and pr
 
 
 ### Pseudocode
-Find the original design plans ![here](https://github.com/GalarianRapidash2345/Code-Review/blob/main/OldPseudocode.md)
+Find the original design plans [here](https://github.com/GalarianRapidash2345/Code-Review/blob/main/OldPseudocode.md)
 
-Find the enhanced design plans ![here](https://github.com/GalarianRapidash2345/Code-Review/blob/main/NewPseudocode.md)
+Find the enhanced design plans [here](https://github.com/GalarianRapidash2345/Code-Review/blob/main/NewPseudocode.md)
 
 
 
